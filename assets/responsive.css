@@ -1,0 +1,311 @@
+@media screen and (max-width:1182px){
+    .jumbotron img{
+        width: 35%;
+    }
+}
+@media screen and (max-width:1180px){
+    .floatimg{
+        width: 250px;
+        margin-top: 40px;
+    }
+    .kenapa-teks{
+        padding: 100px 0px 20px 50px;
+    }
+}
+@media screen and (max-width:1124px){
+    .bulet{
+        width: 90px;
+        height: 90px;
+    }
+    .mingkem, .nyengir{
+        width: 90px;
+    }
+}
+
+@media screen and (max-width:1090px){
+    .jumbotron{
+        padding: 140px 0px;
+    }
+    .main-title{
+        font-size: 38px;
+    }
+    .main-capt{
+        width: 60%;
+    }
+}
+
+
+@media screen and (max-width:1023px){
+    .kenapa-teks{
+        padding: 60px 0px 20px 50px;
+    }
+    .floatimg{
+        width: 200px;
+    }
+    .fleximg{
+        height: 200px;
+    }
+}
+
+@media screen and (max-width:987px){
+    .jumbotron{
+        padding: 130px 0px;
+    }
+}
+@media screen and (max-width:900px){
+    .floatright,.floatleft{
+        float: none;
+    }
+    .float-medquery{
+        width: 100%;
+    }
+    .textright{
+        text-align: left;
+    }
+    .floatimg{
+        width: 50%;
+        margin: 0px auto 30px;
+    }
+    .masa{
+        padding-left: 0px;
+    }
+    .flexcontainer, .flexrow{
+        display: block;
+    }
+    .kpp{
+        margin-right: 0px;
+    }
+    .kurir{
+        margin-left: 0px;
+    }
+    .info .floatleft{
+        float:left
+    }
+    .info .floatright{
+        float: right;
+    }
+    .info{
+        border-radius: 10px;
+        padding: 30px;
+    }
+    #about{
+        padding: 80px;
+        background-position: bottom left;
+        background-size: auto;
+    }
+    .identitas{
+        margin-top: 30px;
+        padding: 0px;
+    }
+    .bulet{
+        margin-bottom: 20px;
+    }
+    .webpajakitem img{
+        width: 40px;
+    }
+    .webpajak{
+        margin-top: 8px;
+        color: #ffffff;
+    }
+    #deadline ul{
+        padding-left: 15px;
+        list-style-position: outside;
+    }
+    .lapor{
+        background-position: top;
+        background-size: auto;
+    }
+}
+
+@media screen and (max-width:822px){
+    .jumbotron{
+        padding-top: 100px;
+    }
+    .kenapa-teks{
+        padding: 20px 0px;
+    }
+    .kenapa-teks ul{
+        padding-left: 20px;
+    }
+    h3{
+        margin-bottom: 20px;
+    }
+    #contoh{
+        padding: 30px 0px 60px 0px;
+    }
+    button{
+        width: 7%;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 18px;
+        opacity: 0.4;
+    }
+}
+@media screen and (max-width:785px){
+    .menu{
+        background:linear-gradient(135deg, #00b1c9,#00ffdd);
+        flex-direction: column;
+        top: 58px;
+        width: 65%;
+        height: 900px;
+        transform: translateX(100%);
+        transition: 0.5s;
+    }
+    .menu a{
+        color: white;
+        width: 100%;
+        text-align: left;
+    }
+    .menubutton{
+        display: block;
+    }
+    .menu-active{
+        transform: translateX(0%);
+    }
+    .line1-close{
+        transform: translateY(6px) rotate(45deg);
+        margin-bottom: 0px;
+    }
+    .line2-close{
+        visibility: collapse;
+    }
+    .line3-close{
+        transform: translateY(-6px) rotate(135deg);
+        margin-bottom: 0px;    
+    }
+}
+@media screen and (max-width:665px){
+    .jumbotron{
+        background-size: cover;
+        text-align: center;
+        padding: 100px 0px 0px 0px;
+    }
+    .jumbotron img{
+        width: 100%;
+        position: static;
+        display: block;
+    }
+    .main-title, .main-capt{
+        width: 80%;
+        margin-right: auto;
+        margin-left:auto;
+    }
+    .main-title{
+        font-size: 35px;
+    }
+    nav img{
+        margin-left: 20px;
+    }
+    .menubutton{
+        margin-right: 20px;
+    }
+    article{
+        padding: 60px;
+    }
+    .title{
+        font-size: 30px;
+    }
+    h3{
+        font-size: 25px;
+    }
+    .npwp{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+    .webpajakitem img{
+        width: 30px;
+    }
+    .webpajak{
+        margin-top: 5px;
+    }
+    .bulet{
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #about{
+        padding: 60px;
+    }
+    #about h3{
+        text-align: center;
+    }
+    #about h4{
+        text-align: center;
+    }
+    .caralapor{
+        margin-top: 60px;
+    }
+}
+@media screen and (max-width:515px){
+    .card{
+        padding: 25px;
+    }
+    article{
+        padding: 40px;
+    }
+    .tahunan .link{
+        right: 0px;
+    }
+    .floatimg{
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .fleximg{
+        width: 100%;
+        height: auto;
+    }
+    #about{
+        padding: 40px;
+    }
+    .info{
+        padding: 25px;
+    }
+    .caralapor{
+        margin-top: 40px;
+    }
+    .teks{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .link{
+        font-size: 12px;
+        padding: 10px;
+    }
+    .webpajak{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:434px){
+    .jumbotron{
+        padding-top: 80px;
+    }
+    article{
+        padding: 30px;
+    }
+    .title{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 18px;
+    }
+    .card h4{
+        margin-bottom: 20px;
+    }
+    #about{
+        padding: 30px;
+    }
+    
+}
+@media screen and (max-width:350px){
+    .tahunan .link{
+        top: 15px;
+    }
+    .card{
+        padding: 20px;
+    }
+    .info{
+        padding: 20px;
+    }
+}
