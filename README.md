@@ -1,4 +1,8 @@
-# pajaklogy
-Simple website using semantic element &amp; layout flexbox
+# Welcome to pajaklogy
 
-Selamat datang di Pajaklogy. Berisi informasi dasar seputar perpajakan untuk mengenalkan pajak kepada orang awam, dengan harapan mendorong kesadaran masyarakat untuk taat membayar pajak.
+Contains basic information about taxation to introduce taxes to ordinary people, with the hope of encouraging public awareness to obey paying taxes.
+* Pajaklogy is a simple one-page website created using semantic HTML elements &amp; flexbox layouting
+* Pajaklogy is already responsive and works on all platforms
+
+
+
